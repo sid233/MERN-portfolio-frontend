@@ -1,0 +1,14 @@
+#footer{
+    width: 100%;
+    color: #fff;
+    min-height: 20px;
+    position: fixed;
+    bottom: 0;
+    background: #21262c;
+}
+
+.btn{
+    background: mediumseagreen;
+    border-radius: 5px;
+    
+}
